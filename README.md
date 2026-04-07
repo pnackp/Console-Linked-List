@@ -1,4 +1,4 @@
-#Linked List Studio 
+# Linked List Studio 
 
 A simple but cleanly structured console-based Linked List manager in C.  
 Supports basic operations like insert, delete, display, and clear.
